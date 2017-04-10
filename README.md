@@ -28,15 +28,15 @@ Na wyjście należy wypisać wynik poleceń **p**, rozdzielając je znakami now
 
 **Wejście**
 
-1 p_
-2 p_
-3 p_
-4 p_
-5 p_
-x p_
-x p_
-x p_
-x p_
+1 p <br />
+2 p <br />
+3 p <br />
+4 p <br />
+5 p <br />
+x p <br />
+x p <br />
+x p <br />
+x p <br />
 x p
 
 1 2 3 4 5 p

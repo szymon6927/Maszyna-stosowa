@@ -10,9 +10,7 @@ s - zamiana miejscami dwóch liczb na szczycie stosu
 
 x - usunięcie elementu ze szczytu stosu
 
-+
-
-zdjęcie dwóch liczb ze stosu i włożenie na stos ich sumy
++ - zdjęcie dwóch liczb ze stosu i włożenie na stos ich sumy
 
 r - zdjęcie ze stosu liczby _n_, przeniesienie liczby z wierzchołka stosu na _n_-te miejsce licząc od wierzchołka; **0 r** oraz **1 r** nic nie robi, **2 r** jest tożsame z **s**, **3 r** zamienia 3 2 1 na 2 1 3 itd.
 

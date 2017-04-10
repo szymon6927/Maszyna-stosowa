@@ -27,6 +27,7 @@ Na wyjście należy wypisać wynik poleceń **p**, rozdzielając je znakami now
 #### Przykład
 
 **Wejście**
+
 1 p
 2 p
 3 p
@@ -64,6 +65,7 @@ s p
 q
 
 **Wyjście**
+
 1 
 2 1 
 3 2 1 
